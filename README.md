@@ -6,8 +6,4 @@
 
 Aqui está mais um projecto desenvolvido como estudo sobre o tema CSSBEM e CSSANIMATION
 
-<div align="center">
-	
-	[!Demo--AnimatedButton](https://www.youtube.com/watch?v=LolGz_V-H-s)
-
-</div>
+Demo em vídeo está presente no directorio assets/_medida
